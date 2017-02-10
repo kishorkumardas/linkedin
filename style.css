@@ -1,0 +1,121 @@
+.header{
+	/*border: 2px solid red;*/
+	width: 100%;
+	height: 75px;
+	margin: 0;
+	overflow: hidden;
+	background-color: black;
+}
+.signup input{
+	width: 23%;
+	height: 18px;
+	margin-top: 30px;
+	margin-right: -55px;
+
+}
+#sign{
+	width: 10%;
+	height: 25px;
+	margin-left:70px;
+	margin-bottom: 10px;
+	color: white;
+	background-color: grey;
+	font-weight: bold;
+	border: none;
+
+}
+.main{
+	/*border: 2px solid green;*/
+	width: 100%;
+	height: 450px;
+	background-image: url(Abstract_003.jpg);
+}
+.footer{
+	border: 2px solid blue;
+	width: 100%;
+	height: 150px;
+	background-color:black;
+}
+.login{
+	border: 2px solid rgb(202,204,206);
+	width: 33%;
+	height: auto;
+	background: rgb(202,204,206);
+	margin: 0 auto;
+	margin-bottom: 10px;
+}
+.login h2{
+	margin: 0;
+	text-align: center;
+	margin-top: 14px;
+	
+	
+}
+.login h3{
+	margin: 0;
+	text-align: center;
+	margin-top: 11px;
+	}
+.login label{
+	margin-left: 12%;
+}
+.login p{
+	margin: 0;
+	text-align: center;
+}
+
+input{
+	width: 70%;
+	height: 25px;
+	margin-left:12%;
+
+	margin-bottom: 10px;
+
+}
+
+#btn{
+	width: 70%;
+	height: 30px;
+	margin-left: 12%;
+	margin-bottom: 10px;
+	margin-top: 13px;
+	color: white;
+	background-color: orange;
+	font-weight: bold;
+	border: none;
+}
+.logo{
+	/*border: 2px solid red;*/
+	width: 20%;
+	float: left;
+	margin-left: 10%;
+	
+}
+.signup{
+	width: 65%;
+	float: right;
+
+}
+.footer input{
+	width: 17%;
+	height: 18px;
+	margin-top: 30px;
+	margin-right: 25px;
+	margin-left: 10px;
+
+}
+.footer label{
+	color: white;
+	margin-left: 250px;
+}
+#sch{
+	width: 6%;
+	height: 30px;
+	margin-left:8px;
+	margin-bottom: 10px;
+	color: white;
+	background-color: grey;
+	font-weight: bold;
+	border: none;
+
+}
